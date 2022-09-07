@@ -16,7 +16,7 @@ Tujuan utama dari bab ini adalah untuk:
 + Garis besar berbagai bentuk bimbingan yang digunakan dalam desain interaksi.
 + Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentangnya dalam kaitannya dengan tujuan dan prinsip inti dari desain interaksi.
 
-![Image](Capture1.PNG "Teks titel")
+![Image](Capture1.PNG "Title")
 
 ># Objectives
 >The main aims of this chapter are to:
@@ -38,7 +38,7 @@ principles of interaction design.
 > - _Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentang itu dalam hal tujuan dan inti
 prinsip desain interaksi._
 
-![Photo of Chap 1](1.png)
+![Image](Capture2.PNG "Title")
 
 # 1.1 Introduction (Pengenalan)
 
