@@ -1,15 +1,22 @@
-##Bab 1
-##Apa itu Desain Interaksi?
+## Bab 1
+## Apa itu Desain Interaksi?
 >1.1 Pendahuluan
-1.2 Desain Baik dan Buruk
-1.3 Apakah Desain Interaksi itu?
-1.4 Pengalaman Pengguna
-1.5 Proses Desain Interaksi
-1.6 Desain Interaksi dan Pengalaman Pengguna
+>1.2 Desain Baik dan Buruk
+>1.3 Apakah Desain Interaksi itu?
+>1.4 Pengalaman Pengguna
+>1.5 Proses Desain Interaksi
+>1.6 Desain Interaksi dan Pengalaman Pengguna
 
-**Itu adalah malam yang gelap dan penuh badai.**
+**Tujuan** 
+Tujuan utama dari bab ini adalah untuk:
++ Menjelaskan perbedaan antara desain interaksi yang baik dan buruk.
++ Jelaskan apa itu desain interaksi dan bagaimana kaitannya dengan interaksi manusia-komputer dan bidang lainnya.
++ Jelaskan hubungan antara pengalaman pengguna dan kegunaan.
++ Jelaskan apa dan siapa yang terlibat dalam proses desain interaksi.
++ Garis besar berbagai bentuk bimbingan yang digunakan dalam desain interaksi.
++ Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentangnya dalam kaitannya dengan tujuan dan prinsip inti dari desain interaksi.
 
-Seorang pendongeng mungkin menggunakan kata-kata indah ini untuk menarik perhatian Anda dan menarik Anda ke dalam sebuah kisah. Seorang novelis mungkin menggunakan kata-kata yang sama untuk memulai halaman pertama sebuah buku. Drama radio berdasarkan cerita yang sama bisa dibuka dengan gemuruh guntur dan deru angin. Sebuah film dari buku itu bisa terbuka di adegan kegelapan, tiba-tiba diterangi oleh kilatan petir yang mengungkapkan pohon-pohon membungkuk di tengah badai.
+![Image](path/ke/file/Capture1.PNG "Teks titel")
 
 Malam yang gelap dan penuh badai dapat direpresentasikan dalam media yang berbeda, yang masing-masing menceritakan kisah melalui cara yang berbeda, menarik indra yang berbeda. Salah satu wawasan kunci dalam komputasi adalah bahwa semua media ini dapat direpresentasikan secara digital, sebagai kumpulan bit terstruktur, dan kemudian dapat dimanipulasi oleh program di komputer, disimpan di disk dan perangkat penyimpanan lainnya, dan ditransmisikan melalui jaringan. Representasi digital bersama mereka berarti bahwa media yang berbeda dapat digabungkan menjadi apa yang secara longgar disebut multimedia.
 
