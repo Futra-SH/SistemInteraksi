@@ -16,34 +16,128 @@ Tujuan utama dari bab ini adalah untuk:
 + Garis besar berbagai bentuk bimbingan yang digunakan dalam desain interaksi.
 + Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentangnya dalam kaitannya dengan tujuan dan prinsip inti dari desain interaksi.
 
-![Image](path/ke/file/Capture1.PNG "Teks titel")
+![Image](Capture1.PNG "Teks titel")
 
-Malam yang gelap dan penuh badai dapat direpresentasikan dalam media yang berbeda, yang masing-masing menceritakan kisah melalui cara yang berbeda, menarik indra yang berbeda. Salah satu wawasan kunci dalam komputasi adalah bahwa semua media ini dapat direpresentasikan secara digital, sebagai kumpulan bit terstruktur, dan kemudian dapat dimanipulasi oleh program di komputer, disimpan di disk dan perangkat penyimpanan lainnya, dan ditransmisikan melalui jaringan. Representasi digital bersama mereka berarti bahwa media yang berbeda dapat digabungkan menjadi apa yang secara longgar disebut multimedia.
+># Objectives
+>The main aims of this chapter are to:
+> - Explain the difference between good and poor interaction design
+> - Describe what interaction design is and how it relates to human–computer interaction and other fields.
+> - Explain the relationship between the user experience and usability.
+> - Describe what and who is involved in the process of interaction design.
+> - Outline the different forms of guidance used in interaction design.
+> - Enable you to evaluate an interactive product and explain what is good and bad about it in terms of the goals and core
+principles of interaction design.
 
-Kombinasi media yang berbeda bukanlah sesuatu yang baru. Sebaliknya, bentuk-bentuk mapan mencampur media secara rutin. Buletin berita TV, misalnya, mungkin menyertakan suara dan gambar bergerak — baik langsung maupun rekaman — gambar diam, seperti foto politisi, ilustrasi grafis, seperti histogram yang menunjukkan tren pengangguran, dan teks, dalam bentuk subtitle , keterangan, kutipan, dan kredit, yang biasanya akan disertai dengan musik peringatan yang sesuai. Pertunjukan teater langsung kontemporer dapat menggabungkan karya seni dan desain dua atau tiga dimensi (set, latar belakang, kostum), suara, yang mungkin merupakan campuran pidato dan musik langsung, mungkin dengan rekaman kaset dan suara yang disintesis, gambar diam dan gambar bergerak yang diproyeksikan. , dan terkadang teks dalam bentuk surtitle (teks tertulis yang ditampilkan di atas panggung, yang sering digunakan untuk terjemahan, terutama dalam opera). Integrasi media adalah alami — kita melihat dunia melalui semua indera yang kita miliki sekaligus; pemisahan media adalah buatan, dan mungkin sering tampak tidak memuaskan.
+> # _Tujuan_
+> - _Tujuan utama dari bab ini adalah untuk:_
+> - _Jelaskan perbedaan antara desain interaksi yang baik dan buruk._
+> - _Jelaskan apa itu desain interaksi dan bagaimana kaitannya dengan interaksi manusia-komputer dan bidang lainnya._
+> - _Jelaskan hubungan antara pengalaman pengguna dan kegunaan._
+> - _Jelaskan apa dan siapa yang terlibat dalam proses desain interaksi_
+> - _Outline the different forms of guidance used in interaction design._
+> - _Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentang itu dalam hal tujuan dan inti
+prinsip desain interaksi._
 
-Pertimbangkan film, misalnya. Sejak hari-hari awal perfilman, dengan tidak adanya metode perekaman dan pemutaran suara yang selaras dengan gambar, suara langsung yang terpisah diproduksi pada saat yang sama dengan pemutaran film: bukan hanya iringan piano langsung yang mungkin Anda temukan di zaman modern. sinema rumah seni pertunjukan klasik bisu, tetapi dialog, nyanyian, dan efek suara, yang diproduksi oleh aktor, penyanyi, dan pembuat kebisingan di teater, sering kali tersembunyi di balik layar. Begitu besar keinginan masyarakat penikmat film untuk mendengar suara yang terintegrasi secara alami dengan gambar bergerak sehingga pada tahun 1927 ketika Al Jolson mengucapkan kalimatnya, 'Tunggu sebentar, tunggu sebentar. Anda belum mendengar apa-apa,' di The Jazz Singer, penonton berdiri dan bersorak. Maka, tidak mengherankan jika hambatan teknis untuk merepresentasikan media secara digital (yang akan kita bahas di Bab 2) diatasi, langkah selanjutnya adalah menggabungkan media yang terpisah. Faktanya, pemisahan media digital ke dalam tipe data yang berbeda — 'jenis hal' yang berbeda yang dapat diterapkan operasi yang berbeda - dapat dilihat sebagai urgensi sementara yang diminta oleh teknologi yang belum matang.
+![Photo of Chap 1](1.png)
 
-## Aplikasi Multimedia
-Jika bukan kombinasi media, apa yang membedakan multimedia digital dari bentuk media gabungan sebelumnya? Fakta bahwa bit yang mewakili teks, suara, gambar, dan sebagainya dapat diperlakukan sebagai data oleh program komputer. Potensi penuh dari fakta ini belum sepenuhnya dieksplorasi, tetapi satu sisi langsung membedakan multimedia digital dari pendahulunya. Sebuah program dapat mengontrol urutan di mana berbagai komponen disajikan dan digabungkan, dan dapat melakukannya sebagai respons terhadap input dari pengguna komputer. Dengan kata lain, multimedia digital dapat menjadi interaktif, dengan cara yang, misalnya, buletin berita TV tidak, dan itu jauh melampaui kontrol sederhana yang diberikan oleh VCR.
+# 1.1 Introduction (Pengenalan)
 
-Versi multimedia digital dari cerita yang kami mulai dengan buku ini dapat dibuka dengan gambar yang menggambarkan malam yang gelap dan penuh badai. Dengan mengklik ikon di layar, pengguna dapat membuat adegan diputar sebagai klip video, atau menambahkan efek suara, sesuai pilihan mereka. Mungkin dengan mengklik pada area adegan yang berbeda, detail dapat terungkap, atau adegan baru dapat diperkenalkan — yang berbeda untuk setiap bagian dari adegan pertama, memungkinkan kisah kusut pengkhianatan dan penebusan yang dimulai pada malam badai yang gelap itu. terungkap dalam lebih dari satu cara, diceritakan melalui mata karakter yang berbeda. Pengguna yang pendengarannya buruk dapat memilih untuk menampilkan transkripsi dialog apa pun untuk mereka, sementara pengguna dengan gangguan penglihatan dapat memiliki deskripsi tentang apa yang terjadi 'dibaca' oleh komputer mereka. Pilihan antarmuka yang berbeda mungkin ditawarkan untuk pengguna dengan selera dan kebutuhan yang berbeda. Jika cerita telah menarik perhatian kritis, dimungkinkan untuk memunculkan komentar yang dipelajari tentang aspek-aspek tertentu, atau sejarah penceritaannya di media yang berbeda. Mungkin ada kesempatan bagi pengguna untuk mengambil peran aktif, mengubah cerita, menambahkan elemen baru, atau menggabungkan kembali elemen yang sudah ada.
+How many interactive products are there in everyday use? Think for a minute about what you use in a typical day: smartphone, tablet computer, remote control, coffee machine, ATM, ticket machine, printer, iPod, GPS, e-reader, TV, electric toothbrush, radio, games
+console . . . the list is endless. Now think for a minute about how usable they are. How many are actually easy, effortless, and enjoyable
+to use? Some, like the iPod, are a joy to use. Others, like a ticket machine, can be very frustrating. Why is there a difference?
 
-Namun, anggaplah ini bukan hanya sebuah cerita — bahwa beberapa kejahatan dilakukan pada malam yang benar-benar gelap dan penuh badai, dan seseorang kemudian ditangkap dan didakwa melakukan pelanggaran. Dengan mengumpulkan bukti dari saksi, dan fakta tentang lokasi, peristiwa malam itu dapat direkonstruksi dan disajikan, seperti cerita kita, sebagai campuran animasi, grafik, suara dan video, dengan anotasi tekstual. Anggota juri kemudian dapat memeriksa peristiwa dari sudut yang berbeda, memverifikasi bahwa itu mungkin untuk melihat sesuatu pada jarak tertentu, mungkin memperhitungkan bagian-bagian dari rekonstruksi berdasarkan bukti saksi tertentu, atau mencoba berbagai hipotesis yang diajukan oleh pengacara. dalam kasus ini. Multimedia forensik semacam ini sudah digunakan di pengadilan di Amerika Serikat.
+_Berapa banyak produk interaktif yang ada dalam penggunaan sehari-hari? Pikirkan sejenak tentang apa yang Anda gunakan pada hari-hari biasa: smartphone, komputer tablet, remote control, mesin kopi, ATM, mesin tiket, printer, iPod, GPS, e-reader, TV, sikat gigi elektrik, radio, game
+konsol. . . daftarnya tidak ada habisnya. Sekarang pikirkan sejenak tentang seberapa berguna mereka. Berapa banyak yang sebenarnya mudah, mudah, dan menyenangkan
+menggunakan? Beberapa, seperti iPod, menyenangkan untuk digunakan. Lainnya, seperti mesin tiket, bisa sangat membuat frustrasi. Mengapa ada perbedaan?_
 
-Multimedia digital dapat digunakan untuk banyak hal selain cerita dan rekonstruksi forensik. Penggunaan multimedia yang paling menonjol dan signifikan secara ekonomi saat ini adalah di bidang hiburan dan pendidikan. Di satu sisi, kombinasi suara, animasi, video dan teks dengan interaktivitas umum ditemukan baik di game petualangan, seperti Starship Titanic dan game aksi, seperti Doom dan keturunan berdarahnya. Sebaliknya ekstrim adalah karya-karya referensi multimedia, seperti ensiklopedia sinema Cinemania, atau versi digital dari Encyclopedia Britannica.
+Many products that require users to interact with them, such as smartphones and social networking sites, have been designed
+primarily with the user in mind. They are generally easy and enjoyable to use. Others, such as switching from viewing a rented movie
+on your smart TVto watching a sports channel, or setting the alarm on a digital clock, have not necessarily been designed with the
+users in mind, but have been engineered primarily as systems to perform set functions. While they may work effectively, it can be at the
+expense of how they will be used by real people.
 
-Multimedia juga digunakan untuk pendidikan di sekolah, dan untuk pembelajaran ekstra kurikuler dan pra-sekolah, di mana bahan ajar multimedia dapat digunakan untuk menyajikan informasi dengan cara yang lebih langsung daripada buku dan pelajaran tradisional. Misalnya, klip film dan rekaman asli siaran radio dapat diintegrasikan dengan catatan tekstual tentang peristiwa yang mengarah ke Perang Dunia Kedua dalam pelajaran sejarah modern. Eksperimen sains virtual dapat dibangun menggunakan teknik multimedia, untuk memungkinkan siswa bekerja dengan simulasi peralatan yang tidak tersedia bagi mereka. Dalam kedua kasus ini, fitur interaktif memungkinkan siswa untuk bekerja dengan kecepatan mereka sendiri, atau untuk mengejar aspek khusus dari sebuah proyek sesuai dengan minat khusus mereka. Bahan ajar multimedia dapat dibeli dalam bentuk CD-ROM lengkap, atau dapat dibuat oleh guru di sekolah mereka sendiri. Anak-anak sendiri juga dapat membuat multimedia, dalam bentuk laporan proyek, atau sebagai tujuan itu sendiri, sebagai buku kelas elektronik atau buletin.
+_Banyak produk yang mengharuskan pengguna untuk berinteraksi dengan mereka, seperti smartphone dan situs jejaring sosial, telah dirancang
+terutama dengan pengguna dalam pikiran. Mereka umumnya mudah dan menyenangkan untuk digunakan. Lainnya, seperti beralih dari menonton film sewaan
+di smart TV Anda untuk menonton saluran olahraga, atau menyetel alarm pada jam digital, belum tentu dirancang dengan
+pengguna dalam pikiran, tetapi telah direkayasa terutama sebagai sistem untuk melakukan fungsi yang ditetapkan. Meskipun mereka mungkin bekerja secara efektif, itu bisa di
+mengorbankan bagaimana mereka akan digunakan oleh orang-orang nyata._
 
-Perbedaan antara pendidikan dan hiburan tidak jelas; beberapa CD-ROM multimedia yang sukses menggunakan elemen permainan untuk tujuan pendidikan. Misalnya, The Logical Journey of the Zoombinis mengembangkan keterampilan pemecahan masalah anak-anak melalui serangkaian teka-teki, yang disusun dalam bentuk permainan. Pendekatan pembelajaran ini tampaknya populer untuk anak-anak yang masih sangat kecil, dengan berbagai judul yang tersedia untuk mengajarkan literasi dan matematika dasar. Ini ditujukan untuk sekolah dan orang tua, untuk digunakan di rumah. (Sebagai efek samping, penggunaan materi tersebut juga mengajarkan keterampilan komputer sejak usia dini.)
+One main aim of interaction design is to reduce the negative aspects (e.g. frustration, annoyance) of the user experience while
+enhancing the positive ones (e.g. enjoyment, engagement). In essence, it is about developing interactive products that are easy, effective, and pleasurable to use – from the users’ perspective. In this chapter we begin by examining what interaction design is. We look at the difference between good and poor design, highlighting how products can differ radically in how usable and enjoyable they are. We then describe what and who is involved in the process of interaction design. The user experience, which is a central concern of interaction design, is then introduced. Finally, we outline how to characterize the user experience in terms of usability goals, user
+experience goals, and design principles. An assignment is presented at the end of the chapter in which you have the opportunity to put into practice what you have read by evaluating the design of an interactive product.
 
-Berbeda dengan sektor hiburan dan pendidikan, di mana sebagian besar multimedia diproduksi dan dipasarkan secara profesional, sebagian besar materi yang digunakan dalam bisnis diproduksi untuk perusahaan tertentu, seringkali di dalam perusahaan. Dalam kelanjutan pemanfaatan multimedia dalam pendidikan formal, materi multimedia digunakan untuk pelatihan. Seperti eksperimen sains virtual di sekolah, multimedia dapat digunakan untuk menghasilkan simulasi interaktif dari peralatan dan prosedur, dalam kasus di mana akan mahal atau berbahaya untuk menggunakan hal yang nyata untuk pelatihan. Multimedia juga digunakan dalam presentasi dan promosi penjualan — misalnya, komputer yang dijual di ruang pamer sering menjalankan presentasi multimedia yang menjelaskan kemampuannya, dan halaman Web sering berfungsi sebagai brosur penjualan.
+_Salah satu tujuan utama dari desain interaksi adalah untuk mengurangi aspek negatif (misalnya frustrasi, gangguan) dari pengalaman pengguna saat
+meningkatkan yang positif (misalnya kenikmatan, keterlibatan). Intinya, ini tentang mengembangkan produk interaktif
+yang mudah, efektif, dan menyenangkan untuk digunakan – dari sudut pandang pengguna. Dalam bab ini kita mulai dengan memeriksa apa itu desain interaksi. Kita lihat perbedaan antara desain yang baik dan buruk, soroti bagaimana produk dapat berbeda secara radikal dalam hal kegunaan dan kesenangannya
+adalah. Kami kemudian menggambarkan apa dan siapa yang terlibat dalam proses desain interaksi. Pengalaman pengguna, yang menjadi perhatian utama
+desain interaksi, kemudian diperkenalkan. Akhirnya, kami menguraikan bagaimana mengkarakterisasi pengalaman pengguna dalam hal tujuan kegunaan, pengguna
+tujuan pengalaman, dan prinsip desain. Sebuah tugas disajikan di akhir bab di mana Anda memiliki kesempatan untuk menempatkan
+mempraktekkan apa yang telah Anda baca dengan mengevaluasi desain produk interaktif._
 
-Beberapa profesi dan bidang bisnis sangat cocok untuk multimedia. Desainer grafis menghasilkan presentasi interaktif dari pekerjaan mereka sebagai pelengkap, atau bahkan sebagai pengganti, portofolio konvensional. Portofolio elektronik dapat dengan murah digandakan dalam CD-ROM dan dikirim ke klien potensial, atau diposting di situs Web sebagai pameran virtual. Dalam bisnis perangkat lunak yang disusutkan, manual kertas secara bertahap digantikan oleh dokumentasi elektronik selama beberapa tahun. Perpindahan dari hard copy ke format digital telah memberikan kesempatan untuk menambah teks dan diagram manual konvensional dengan animasi, klip video, dan suara. Banyak program kini hadir dengan tur produk multimedia, yang menunjukkan fitur terbaiknya, dan tutorial interaktif, yang memandu pengguna pemula melalui tugas-tugas sederhana.
+# 1.2 Good and Poor Design _(Desain Baik dan Buruk)_
 
-Salah satu area di mana komputasi memainkan bagian yang lebih aktif adalah visualisasi, di mana grafik dan animasi digunakan sebagai sarana untuk menyajikan data yang kompleks. Contoh visualisasi yang dangkal mencakup diagram lingkaran dan diagram batang yang dihasilkan dari data spreadsheet: bentuk grafisnya merangkum data dengan cara yang memungkinkan pengenalan tren dan perbandingan antara besaran secara sekilas. Data yang lebih kompleks daripada jenis yang biasanya disimpan dalam spreadsheet menuntut visualisasi yang lebih kompleks untuk memberikan tingkat pemahaman yang sama. Presentasi tiga dimensi dan waktu yang bervariasi, menggunakan warna palsu untuk membawa informasi tambahan, sering disukai. Visualisasi yang rumit seperti itu sering dihasilkan dari simulasi sistem dinamis yang kompleks: misalnya, sebuah program yang mensimulasikan dinamika atmosfer dapat menghasilkan film selang waktu dari kehamilan badai tropis; sebuah program yang mensimulasikan reaksi kimia organik dapat menghasilkan model tiga dimensi dari struktur molekul yang terlibat, menunjukkan perubahan yang mereka alami. Seperti yang ditunjukkan oleh contoh-contoh ini, visualisasi digunakan secara luas oleh para ilmuwan; itu juga digunakan dalam bisnis, di mana sistem yang dilacak atau disimulasikan bersifat finansial, dan hasilnya lebih abstrak.
+Acentral concern of interaction design is to develop interactive products that are usable. By this is generally meant easy to learn,
+effective to use, and providing an enjoyable user experience. Agood place to start thinking about how to design usable interactive
+products is to compare examples of well- and poorly-designed ones. Through identifying the specific weaknesses and strengths of
+different interactive products, we can begin to understand what it means for something to be usable or not. Here, we describe two
+examples of poorly designed products – a voice mail system used in hotels and the ubiquitous remote control device – and contrast
+these with two well-designed examples of products that perform the same function.
 
-Industri hiburan yang mapan, sementara masih menghadirkan produk yang pada dasarnya linier dan non-interaktif, kini memanfaatkan teknologi multimedia digital secara ekstensif dalam produksi segala sesuatu mulai dari film blockbuster hingga program berkebun di TV. Penggunaan koneksi dengan materi yang disampaikan secara digital, seperti hubungan antara pemrograman dan situs Web pendukung, atau CD-ROM yang menyertai untuk film mainstream, berkembang pesat. Pada saat yang sama, jumlah festival, konferensi, dan acara internasional lainnya menyediakan pameran untuk "media baru" di semua tingkatan dari avant garde artistik hingga komersial murni.
+_Perhatian utama dari desain interaksi adalah untuk mengembangkan produk interaktif yang dapat digunakan. Dengan ini umumnya dimaksudkan mudah dipelajari,
+efektif untuk digunakan, dan memberikan pengalaman pengguna yang menyenangkan. Tempat yang baik untuk mulai berpikir tentang bagaimana mendesain interaktif yang dapat digunakan
+produk adalah untuk membandingkan contoh yang dirancang dengan baik dan yang buruk. Dengan mengidentifikasi kelemahan dan kekuatan spesifik dari
+produk interaktif yang berbeda, kita dapat mulai memahami apa artinya sesuatu dapat digunakan atau tidak. Di sini, kami menggambarkan dua
+contoh produk yang dirancang dengan buruk – sistem pesan suara yang digunakan di hotel dan perangkat remote control yang ada di mana-mana – dan kontras
+ini dengan dua contoh produk yang dirancang dengan baik yang melakukan fungsi yang sama._
 
-## Pengiriman Multimedia
-Aplikasi-aplikasi yang telah kami sebutkan sejauh ini semuanya pada dasarnya berkaitan dengan penyajian materi, menggunakan kombinasi media, secara interaktif. Beberapa cara pengiriman diperlukan, untuk mendapatkan bahan ini dari produsen ke konsumennya. Sangat berguna untuk membedakan antara pengiriman online dan offline. Pengiriman online menggunakan jaringan untuk mengirim informasi dari satu komputer, seringkali mesin server yang menyediakan penyimpanan terpusat dari data besar, ke komputer lain, biasanya komputer pribadi di meja seseorang. Jaringan yang dimaksud mungkin merupakan jaringan area lokal yang melayani satu organisasi, tetapi yang lebih sering adalah Internet. Secara khusus, World Wide Web telah memantapkan dirinya sebagai sarana populer untuk menyampaikan multimedia online.
+# _(1) Voice Mail System_ (Sistem Pesan Suara)
+
+Imagine the following scenario. You are staying at a hotel for a week while on a business trip. You discover you have left your cell phone
+at home so you have to rely on the hotel's facilities. The hotel has a voice mail system for each room. To find out if you have a message,
+you pick up the handset and listen to the tone. If it goes ‘beep, beep, beep’ there is a message. To find out how to access the message
+you have to read a set of instructions next to the phone. You read and follow the first step:
+
+_Bayangkan skenario berikut. Anda tinggal di hotel selama seminggu saat dalam perjalanan bisnis. Anda menemukan Anda telah meninggalkan ponsel Anda
+di rumah jadi harus mengandalkan fasilitas hotel. Hotel ini memiliki sistem pesan suara untuk setiap kamar. Untuk mengetahui apakah Anda memiliki pesan,
+Anda mengangkat gagang telepon dan mendengarkan nadanya. Jika berbunyi 'bip, bip, bip' ada pesan. Untuk mengetahui cara mengakses pesan
+Anda harus membaca satu set instruksi di sebelah telepon. Anda membaca dan mengikuti langkah pertama:_
+
+> ‘1. Touch 41.’ _(‘1. Sentuh 41.’)_
+> The system responds: ‘You have reached the Sunny Hotel voice message center. Please enter the room number for which you would like to leave a message.’
+> _Sistem menjawab: 'Anda telah mencapai pusat pesan suara Sunny Hotel. Silakan masukkan nomor kamar yang Anda inginkan
+ingin meninggalkan pesan.'_
+> You wait to hear how to listen to a recorded message. But there are no further instructions from the phone. You look down at the
+instruction sheet again and read:
+> _Anda menunggu untuk mendengar cara mendengarkan pesan yang direkam. Namun tidak ada instruksi lebih lanjut dari ponsel tersebut. Anda melihat ke bawah
+lembar instruksi lagi dan baca:_
+> ‘2. Touch*, your room number, and #.’ _(‘2. Sentuh*, nomor kamar Anda, dan #.’)_
+> You do so and the system replies: ‘You have reached the mailbox for room 106. To leave a message, type in your password.’
+> _Anda melakukannya dan sistem membalas: 'Anda telah mencapai kotak surat untuk kamar 106. Untuk meninggalkan pesan, ketikkan kata sandi Anda.'_
+> You type in the room number again and the system replies: ‘Please enter room number again and then your password.’
+> _Anda mengetikkan nomor kamar lagi dan sistem menjawab: 'Silakan masukkan nomor kamar lagi dan kemudian kata sandi Anda.'_
+
+You don't know what your password is. You thought it was the same as your room number, but clearly it's not. At this point you give up and call reception for help. The person at the desk explains the correct procedure for recording and listening to messages. This involves typing in, at the appropriate times, the room number and the extension number of the phone (the latter is the password, which
+is different from the room number). Moreover, it takes six steps to access a message and five steps to leave a message. You go out and buy a new cell phone.
+
+_Anda tidak tahu apa kata sandi Anda. Anda mengira itu sama dengan nomor kamar Anda, tapi ternyata tidak. Pada titik ini Anda menyerah dan menelepon resepsionis untuk meminta bantuan. Orang di meja menjelaskan prosedur yang benar untuk merekam dan mendengarkan pesan. Ini melibatkan mengetik, pada waktu yang tepat, nomor kamar dan nomor ekstensi telepon (yang terakhir adalah kata sandi, yang berbeda dari nomor kamar). Selain itu, dibutuhkan enam langkah untuk mengakses pesan dan lima langkah untuk meninggalkan pesan. Kamu keluar
+dan membeli ponsel baru._
+
+What is problematic with this voice mail system?
+
+_Apa yang bermasalah dengan sistem pesan suara ini?_
+
+> - It is infuriating.
+> - It is confusing.
+> - It is inefficient, requiring you to carry out a number of steps for basic tasks.
+> - It is difficult to use.
+It has no means of letting you know at a glance whether any messages have been left or how many there are. You have to pick up
+the handset to find out and then go through a series of steps to listen to them.
+It is not obvious what to do: the instructions are provided partially by the system and partially by a card beside the phone.
+
+> - _Ini menyebalkan._
+> - _Ini membingungkan._
+> - _Ini tidak efisien, mengharuskan Anda melakukan sejumlah langkah untuk tugas-tugas dasar._
+> - _Sulit digunakan._
+> - _Tidak ada cara untuk memberi tahu Anda secara sekilas apakah ada pesan yang tertinggal atau ada berapa banyak. Anda harus mengambil
+handset untuk mencari tahu dan kemudian melalui serangkaian langkah untuk mendengarkannya._
+> - _Tidak jelas apa yang harus dilakukan: instruksi diberikan sebagian oleh sistem dan sebagian oleh kartu di samping telepon._
