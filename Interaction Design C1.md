@@ -16,7 +16,7 @@ Tujuan utama dari bab ini adalah untuk:
 + Garis besar berbagai bentuk bimbingan yang digunakan dalam desain interaksi.
 + Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentangnya dalam kaitannya dengan tujuan dan prinsip inti dari desain interaksi.
 
-![Image](path/ke/file/Capture1.PNG "Teks titel")
+![Image](Capture1.PNG "Teks titel")
 
 Malam yang gelap dan penuh badai dapat direpresentasikan dalam media yang berbeda, yang masing-masing menceritakan kisah melalui cara yang berbeda, menarik indra yang berbeda. Salah satu wawasan kunci dalam komputasi adalah bahwa semua media ini dapat direpresentasikan secara digital, sebagai kumpulan bit terstruktur, dan kemudian dapat dimanipulasi oleh program di komputer, disimpan di disk dan perangkat penyimpanan lainnya, dan ditransmisikan melalui jaringan. Representasi digital bersama mereka berarti bahwa media yang berbeda dapat digabungkan menjadi apa yang secara longgar disebut multimedia.
 
