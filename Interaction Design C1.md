@@ -16,10 +16,15 @@
 > ### Bab 1
 >## Apa itu Desain Interaksi?
 > 1.1 Pendahuluan
+
 > 1.2 Desain Baik dan Buruk
+
 > 1.3 Apakah Desain Interaksi itu
+
 > 1.4 Pengalaman Pengguna
+
 > 1.5 Proses Desain Interaksi
+
 > 1.6 Desain Interaksi dan Pengalaman Pengguna
 
 ### Objectives
