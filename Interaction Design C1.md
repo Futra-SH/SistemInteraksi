@@ -1,20 +1,26 @@
 ### Chapter 1
 ## What is Interaction Design?
-> 1.1 Introduction 
+
+1.1 Introduction 
+
 1.2 Good and Poor Design 
+
 1.3 What Is Interaction Design? 
+
 1.4 The User Experience 
+
 1.5 The Process of Interaction Design 
+
 1.6 Interaction Design and the User Experience
 
 > ### Bab 1
-> ## Apa itu Desain Interaksi?
-> > 1.1 Pendahuluan
-1.2 Desain Baik dan Buruk
-1.3 Apakah Desain Interaksi itu?
-1.4 Pengalaman Pengguna
-1.5 Proses Desain Interaksi
-1.6 Desain Interaksi dan Pengalaman Pengguna
+>## Apa itu Desain Interaksi?
+> 1.1 Pendahuluan
+> 1.2 Desain Baik dan Buruk
+> 1.3 Apakah Desain Interaksi itu
+> 1.4 Pengalaman Pengguna
+> 1.5 Proses Desain Interaksi
+> 1.6 Desain Interaksi dan Pengalaman Pengguna
 
 ### Objectives
 The main aims of this chapter are to:
